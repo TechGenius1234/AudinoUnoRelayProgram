@@ -14,4 +14,4 @@ Open the program in IDE by going File > Open
 # Step 4
 Push the program to your Uno and enjoy!
 
-> Need Extra Help? Click Here
+> Need Extra Help? [Click Here](https://github.com/TechGenius1234/AudinoUnoRelayProgram/blob/main/helpcenter/extrahelp.md)
